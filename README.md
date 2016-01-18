@@ -1,2 +1,2 @@
 # xousian
-Something like Greek for power exousía.
+Something like Greek for power *exousía*.
